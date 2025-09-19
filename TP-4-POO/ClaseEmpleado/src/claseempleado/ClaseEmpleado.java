@@ -17,7 +17,5 @@ public class ClaseEmpleado {
         System.out.println(empleado1);
         
         System.out.println("Número de empleados: " + Empleado.getTotalEmpleados());
-        
-    }
-    
+    }  
 }
